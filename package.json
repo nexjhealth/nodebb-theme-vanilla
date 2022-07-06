@@ -1,11 +1,11 @@
 {
   "name": "nodebb-theme-vanilla",
-  "version": "0.0.137",
+  "version": "0.0.138",
   "description": "Vanilla theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla"
+    "url": "https://github.com/nexjhealth/nodebb-theme-vanilla"
   },
   "keywords": [
     "nodebb",
@@ -29,10 +29,12 @@
       "name": "Barış Soner Uşaklı",
       "email": "baris@designcreateplay.com",
       "url": "https://github.com/barisusakli"
+    },
+    {
+      "name": "Julien Lamure",
+      "email": "julien.lamure@nexjhealth.com",
+      "url": "https://github.com/Ju-NXH"
     }
   ],
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla/issues"
-  }
+  "license": "BSD-2-Clause"
 }
